@@ -1,4 +1,4 @@
-# Data-Exploration-and-Visualization-of-Netflix-data
+# Netflix - Data Exploration and Visualisation
 
 ## Streaming Platform Data: Cleaning, Analysis and Visualization
 Data Analysis and Visualization on Netflix Data to provide insights and recommendations to improve their userbase.
